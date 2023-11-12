@@ -14,7 +14,7 @@ Hello! I'm [Mohammed Abdel Tawab], a Software Engineer with a knack for AI. Here
 class SoftwareAIEngineer:
     def __init__(self):
         self.languages = ["Python", "JavaScript", "c++", "HTML", "Flutter"]
-        self.AI_frameworks = ["TensorFlow", "PyTorch", "scikit-learn", "Keras"]
+        self.AI_frameworks = ["TensorFlow", "PyTorch", "scikit-learn", "Keras", "OpenAI","Flask"]
         self.dev_tools = ["Docker", "Git", "VS Code", "Jupyter"]
 
     def current_focus(self):
