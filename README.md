@@ -23,6 +23,3 @@ class SoftwareAIEngineer:
 me = SoftwareAIEngineer()
 print("Current Focus:", me.current_focus())
 
-
-Let's Connect!
-LinkedIn: [mohamed-abdeltawab-elghobary]
