@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdeltawab</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h3 align="center">AI and Back-end developer</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+AI+developer..&hearts;++;Backend+Specialist;Passionate+about+LLMs+and+RAG+systems;Builder+of+Intelligent+Agents+%26+Search+Pipelines;FastAPI+Enthusiast+with+Docker+Love;Mastering+Databases:+SQL,+NoSQL,+Vector+DBs;Semantic+Search+%7C+Context-Aware+Apps+Fan;Lifelong+Learner+%7C+Open+Source+Contributor"..<3"></a>
+</p>
+
+
+<br>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelghobary" alt="mohamedelghobary" /></a> </p>
 
