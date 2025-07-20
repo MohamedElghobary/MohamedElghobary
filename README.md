@@ -2,14 +2,14 @@
 <h3 align="center">AI and Back-end developer</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+AI+developer..&hearts;++;Backend+Specialist;Passionate+about+LLMs+and+RAG+systems;Builder+of+Intelligent+Agents+%26+Search+Pipelines;FastAPI+Enthusiast+with+Docker+Love;Mastering+Databases:+SQL,+NoSQL,+Vector+DBs;Semantic+Search+%7C+Context-Aware+Apps+Fan;Lifelong+Learner+%7C+Open+Source+Contributor"..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&duration=4000&pause=1000&color=00CED1&center=true&vCenter=true&width=750&height=100&lines=AI+Engineer+with+Expertise+in+LLMs+and+RAG+Systems;Specialist+in+Backend+Architecture+and+Distributed+Systems;Experienced+in+FastAPI,+Docker,+and+Production+Workflows;Skilled+in+SQL,+NoSQL,+and+Vector+Databases;Focused+on+Semantic+Search+%7C+Contextual+Retrieval;Builder+of+Intelligent+Agents+and+Search+Pipelines;Committed+to+Clean+Code,+Scalability,+and+Impactful+AI+Solutions">
+  </a>
 </p>
-
 
 <br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelghobary" alt="mohamedelghobary" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
